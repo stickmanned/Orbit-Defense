@@ -24,6 +24,7 @@
   "resources":[
     {"id":{"name":"oBarn","path":"objects/oBarn/oBarn.yy",},},
     {"id":{"name":"obj_manager","path":"objects/obj_manager/obj_manager.yy",},},
+    {"id":{"name":"oBoss","path":"objects/oBoss/oBoss.yy",},},
     {"id":{"name":"oEquipment","path":"objects/oEquipment/oEquipment.yy",},},
     {"id":{"name":"oFarmer","path":"objects/oFarmer/oFarmer.yy",},},
     {"id":{"name":"Oorb","path":"objects/Oorb/Oorb.yy",},},
@@ -33,8 +34,10 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"bg","path":"sprites/bg/bg.yy",},},
     {"id":{"name":"sBarn","path":"sprites/sBarn/sBarn.yy",},},
+    {"id":{"name":"sBoss","path":"sprites/sBoss/sBoss.yy",},},
     {"id":{"name":"sEquipment","path":"sprites/sEquipment/sEquipment.yy",},},
     {"id":{"name":"sFarmer","path":"sprites/sFarmer/sFarmer.yy",},},
+    {"id":{"name":"sfork","path":"sprites/sfork/sfork.yy",},},
     {"id":{"name":"sOrb","path":"sprites/sOrb/sOrb.yy",},},
     {"id":{"name":"sWheat","path":"sprites/sWheat/sWheat.yy",},},
     {"id":{"name":"sZombie","path":"sprites/sZombie/sZombie.yy",},},

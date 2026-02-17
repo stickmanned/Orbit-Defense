@@ -1,1 +1,3 @@
-// 1. Destroy the pathfinding grid to free up RAM
+if (variable_global_exists("grid")) {
+    mp_grid_destroy(global.grid);
+}
