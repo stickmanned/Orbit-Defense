@@ -24,7 +24,7 @@ switch (state) {
 
     case "start_wave":
         if (current_wave > max_waves) {
-            show_message("YOU BEAT ALL 25 WAVES!");
+            show_message("YOU BEST ALL 25 WAVES! The game will loop if you continue!");
             game_restart();
         }
         
